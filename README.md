@@ -1,6 +1,6 @@
 # Book_Store_App
 purchase books 
-A fully functional project based on a Book Store App or application written in Java and utilizing the Android architecture. Final-year IT students can use the Android app below for their college projects because it has all of the necessary features. It offers all of the features that an audio player service requires. The application concept for this system is straightforward. It’s accurate to real-life situations and has been well-executed. To get this project for free, scroll down to the bottom of the page. This project can only be used for educational purposes.
+A fully functional project based on a Book Store App or application written in Java and utilizing the Android architecture.It offers all of the features that an audio player service requires. The application concept for this system is straightforward. It’s accurate to real-life situations and has been well-executed. To get this project for free, scroll down to the bottom of the page. This project can only be used for educational purposes.
 
 The Android app for the Book Store is a work in progress. It allows the user to choose a book from the book app store and buy or rent it. Android Studio is required to complete the project. Make sure you have Android Studio installed on your computer before starting the project.
 
